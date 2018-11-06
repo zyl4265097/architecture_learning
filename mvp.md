@@ -2,7 +2,7 @@
 
 学习对象：google官方的工程Demo https://github.com/googlesamples/android-architecture   中的todo-mvp
 
-感觉看过的所有介绍MVP的文章里面的图都是垃圾，根本没说清MVP架构具体是咋回事的。
+感觉看过的所有介绍MVP的文章里面的图都是垃圾，根本没说清MVP架构具体是咋回事的，图只能用来总结回顾，不是用来学习的。
 
 MVP架构中的独特元素：
 
